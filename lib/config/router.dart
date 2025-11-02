@@ -87,7 +87,7 @@ class TlCupertinoPageRoute<T> extends CupertinoPageRoute<T> {
   })  : assert(builder != null),
         assert(maintainState != null),
         assert(fullscreenDialog != null),
-        assert(opaque),
+//        assert(opaque),
         super(
             builder: builder,
             title: title,

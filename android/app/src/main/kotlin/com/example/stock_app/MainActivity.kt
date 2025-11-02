@@ -1,4 +1,4 @@
-package com.example.stock_app
+package com.welterhome.welterstock
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

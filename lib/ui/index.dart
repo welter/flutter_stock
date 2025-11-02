@@ -21,29 +21,37 @@ class _IndexState extends State<IndexPage> {
   int  selectTabIndex = 0;
   @override
   Widget build(BuildContext context) {
-      return Scaffold(
-                backgroundColor: Color.fromRGBO(244, 245, 245, 1),
-                bottomNavigationBar: BottomNavigationBar(
-                  type: BottomNavigationBarType.fixed,
-                  currentIndex: selectTabIndex,
-                  items: [ 
-                      BottomNavigationBarItem(icon:Icon(Icons.home), title: Text('首页', style: TextStyle(fontSize:12),)),
-                      BottomNavigationBarItem(icon:Icon(Icons.group_work), title: Text('市场', style: TextStyle(fontSize:12),)),
-                      BottomNavigationBarItem(icon: Icon(Icons.group_work), title: Text('自选', style: TextStyle(fontSize:12),)),
-                      BottomNavigationBarItem(icon: Icon(Icons.group_work), title: Text('股票', style: TextStyle(fontSize:12),)),
-                      BottomNavigationBarItem(icon: Icon(Icons.person), title: Text('我的', style: TextStyle(fontSize:12),)),
-                  ] ,
-                  onTap: (index){
-                    setState(() {
-                      selectTabIndex = index;
-                    });
-                  },
-                ),
-                body: IndexedStack(
-                  index: selectTabIndex,
-                  children:[   HomePage(),MarketPage(),  ChoicePage(), StockIndex(),  MyPage() ] ,//StockIndex(),
-                )
-              );
+    return Scaffold(
+      backgroundColor: Color.fromRGBO(244, 245, 245, 1),
+      bottomNavigationBar: BottomNavigationBar(
+        type: BottomNavigationBarType.fixed,
+        currentIndex: selectTabIndex,
+        selectedLabelStyle: TextStyle(fontSize: 12),
+        unselectedLabelStyle: TextStyle(fontSize: 12),
+        items: [
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: '首页'),
+          BottomNavigationBarItem(icon: Icon(Icons.group_work), label: '市场'),
+          BottomNavigationBarItem(icon: Icon(Icons.group_work), label: '自选'),
+          BottomNavigationBarItem(icon: Icon(Icons.group_work), label: '股票'),
+          BottomNavigationBarItem(icon: Icon(Icons.person), label: '我的'),
+        ],
+        onTap: (index) {
+          setState(() {
+            selectTabIndex = index;
+          });
+        },
+      ),
+      body: IndexedStack(
+        index: selectTabIndex,
+        children: [
+          HomePage(),
+          MarketPage(),
+          ChoicePage(),
+          StockIndex(),
+          MyPage(),
+        ],
+      ),
+    );
       
   }
 }

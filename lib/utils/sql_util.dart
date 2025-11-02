@@ -51,18 +51,19 @@ class SQLProvider {
       // Delete the database
       await deleteDatabase(path);
 
-      db = await openDatabase(path, version: 4,
-          onCreate: (Database db, int version) async {
-          print('db created version is $version');
-      }, onOpen: (Database db) async {
-            await db.execute('''  
-                CREATE TABLE 'stock_list' (
-                  id INTEGER PRIMARY KEY, 
-                  code TEXT, 
-                  name TEXT, 
-                  jc TEXT);             
-                ''');  
-      });
+      // db = await openDatabase(path, version: 4,
+      //     onCreate: (Database db, int version) async {
+      //     print('db created version is $version');
+      // }, onOpen: (Database db) async {
+      //       await db.execute('''
+      //           CREATE TABLE 'stock_list' (
+      //             id INTEGER PRIMARY KEY,
+      //             code TEXT,
+      //             name TEXT,
+      //             jc TEXT);
+      //           ''');
+      // });
+      db=getDatabase();
     } else {
       print("Opening existing database");
     }

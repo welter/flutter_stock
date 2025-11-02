@@ -214,7 +214,7 @@ class BaseWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     var titleStyle = Theme.of(context)
         .textTheme
-        .subhead
+        .subtitle1
         .copyWith(color: Colors.grey, fontSize: SU.font(60));
     var messageStyle = titleStyle.copyWith(
         color: titleStyle.color.withOpacity(0.7), fontSize: SU.font(40));

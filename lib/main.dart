@@ -14,7 +14,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:oktoast/oktoast.dart';
 import 'package:provider/provider.dart';
 
-import 'config/router.dart';
+import 'config/router.dart' as MyRouter;
 import 'utils/event_bus_util.dart';
 import 'utils/sql_util.dart';
 import 'view_model/system/theme.dart';
@@ -64,8 +64,8 @@ class AppMain extends StatelessWidget {
               child: MaterialApp(
                 //checkerboardOffscreenLayers
                 debugShowCheckedModeBanner: true,
-                onGenerateRoute: Router.generateRoute,
-                initialRoute: RouteName.index,
+                onGenerateRoute: MyRouter.Router.generateRoute,
+                initialRoute: MyRouter.RouteName.index,
                 localizationsDelegates: [
                   //此处
                   GlobalMaterialLocalizations.delegate,

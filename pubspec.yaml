@@ -20,18 +20,25 @@ dependencies:
   
   flutter_screenutil: ^1.0.2
   provider: ^4.0.4
-  fluttertoast: ^3.1.3
-  oktoast: ^2.1.7
+  fluttertoast: ^8.2.1
+  oktoast: ^3.0.0
   shared_preferences: ^0.5.3+5
-  pull_to_refresh: ^1.5.8
+  pull_to_refresh: ^2.0.0
   common_utils: ^1.1.3
-  sqflite: ^1.1.5
+
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+  sqflite_common_ffi: ^2.1.0 # 用于桌面
+
+#  sqflite: ^1.1.5
+#  drift: ^2.2.0
+#  sqlite3_flutter_libs: ^0.4.0
   ffloat: ^1.0.1
 
   path_provider: ^1.6.5 #安装路径
   device_info: ^0.4.0
   package_info: ^0.4.0
-  open_file: ^2.0.3 #安装文件,下载新版本
+  open_file: ^3.2.1 #安装文件,下载新版本
 
   socket_io_client: ^0.9.10
 
