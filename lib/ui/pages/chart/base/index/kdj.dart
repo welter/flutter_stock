@@ -2,16 +2,16 @@
  * @Author: zhang
  * @Date: 2020-06-01 00:42:29
  * @LastEditTime: 2020-06-10 13:50:42
- * @FilePath: \stock_app\lib\ui\pages\lib\base\index\kdj.dart
+ * @FilePath: \welterstock\lib\ui\pages\lib\base\index\kdj.dart
  */ 
 
 
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/model/k/kdj_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/model/k/kdj_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
 import 'package:flutter/material.dart';
 
 import '../base_renderer.dart';

@@ -2,10 +2,10 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 08:24:08
  * @LastEditTime: 2020-06-15 20:28:07
- * @FilePath: /stock_app/lib/ui/components/204_ProviderWidget.dart
+ * @FilePath: /welterstock/lib/ui/components/204_ProviderWidget.dart
  */ 
-import 'package:app_stock/config/router.dart';
-import 'package:app_stock/provider/base_model.dart';
+import 'package:welterstock/config/router.dart';
+import 'package:welterstock/provider/base_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';

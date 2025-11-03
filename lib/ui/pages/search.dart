@@ -1,4 +1,4 @@
-import 'package:app_stock/utils/sql_util.dart';
+import 'package:welterstock/utils/sql_util.dart';
 import 'package:flutter/material.dart';
 class StockSearch extends StatefulWidget {
   StockSearch({Key key}) : super(key: key);

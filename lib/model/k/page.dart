@@ -2,10 +2,10 @@
  * @Author: zhang
  * @Date: 2020-06-13 22:54:24
  * @LastEditTime: 2020-06-13 23:32:09
- * @FilePath: /stock_app/lib/model/k/page.dart
+ * @FilePath: /welterstock/lib/model/k/page.dart
  */ 
 
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
 
 import 'k_line_entity.dart';
 

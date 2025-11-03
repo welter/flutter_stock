@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-23 00:58:35
  * @LastEditTime: 2020-06-12 22:52:19
- * @FilePath: /stock_app/lib/model/k/volume_entity.dart
+ * @FilePath: /welterstock/lib/model/k/volume_entity.dart
  */ 
 mixin VolumeEntity {
 

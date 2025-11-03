@@ -2,14 +2,14 @@
     * @Author: zhang
     * @Date: 2020-05-28 20:23:48
  * @LastEditTime: 2020-06-19 17:30:49
- * @FilePath: \stock_app\lib\ui\pages\chart\base\base_rect.dart
+ * @FilePath: \welterstock\lib\ui\pages\chart\base\base_rect.dart
     */
 import 'dart:math';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/pages/chart/base/base_painter.dart';
-import 'package:app_stock/ui/pages/chart/base/index/base_index.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/pages/chart/base/base_painter.dart';
+import 'package:welterstock/ui/pages/chart/base/index/base_index.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
 import 'package:flutter/material.dart';
 
 import '../chart_state.dart';

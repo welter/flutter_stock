@@ -2,18 +2,18 @@
  * @Author: zhang
  * @Date: 2020-05-27 20:52:24
  * @LastEditTime: 2020-06-10 23:22:23
- * @FilePath: /stock_app/lib/ui/pages/chart/base/main_compare_renderer.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/main_compare_renderer.dart
  */ 
 
 
 import 'dart:ui';
 
-import 'package:app_stock/model/k/candle_entity.dart';
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/ui/pages/chart/base/base_rect.dart';
-import 'package:app_stock/ui/pages/chart/base/main_renderer.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/model/k/candle_entity.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/ui/pages/chart/base/base_rect.dart';
+import 'package:welterstock/ui/pages/chart/base/main_renderer.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
 import 'package:flutter/material.dart';
 
 import 'dart:math' as Math;

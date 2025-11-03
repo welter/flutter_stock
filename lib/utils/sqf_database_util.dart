@@ -5,7 +5,7 @@ import 'package:sqflite/sqflite.dart';
 
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 
-class sqfProvider {
+class sqfDatabaseProvider {
   static Database _database;
 
   static Future<Database> getDatabase(String db_name) async {

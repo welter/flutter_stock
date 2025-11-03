@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-06-20 08:29:41
  * @LastEditTime: 2020-06-26 23:42:09
- * @FilePath: /stock_app/lib/ui/choice.dart
+ * @FilePath: /welterstock/lib/ui/choice.dart
  */
 
 import 'package:flutter/material.dart';

@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-06-20 08:28:43
  * @LastEditTime: 2020-06-25 17:46:13
- * @FilePath: /stock_app/lib/ui/market.dart
+ * @FilePath: /welterstock/lib/ui/market.dart
  */
 import 'package:flutter/material.dart';
 import 'package:sticky_headers/sticky_headers.dart';

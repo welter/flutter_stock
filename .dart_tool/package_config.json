@@ -668,13 +668,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "app_stock",
+      "name": "welterstock",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2025-11-02T14:43:05.374091Z",
+  "generated": "2025-11-03T15:18:33.711804Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }

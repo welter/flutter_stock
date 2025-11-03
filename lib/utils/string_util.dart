@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-25 20:30:33
  * @LastEditTime: 2020-06-19 17:24:34
- * @FilePath: \stock_app\lib\utils\string_util.dart
+ * @FilePath: \welterstock\lib\utils\string_util.dart
  */ 
 import 'dart:convert';
 import 'package:convert/convert.dart';

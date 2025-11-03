@@ -1,7 +1,7 @@
-import 'package:app_stock/config/router.dart';
-import 'package:app_stock/ui/components/204_providerWidget.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
-import 'package:app_stock/view_model/chart_button_provider.dart';
+import 'package:welterstock/config/router.dart';
+import 'package:welterstock/ui/components/204_providerWidget.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/view_model/chart_button_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';

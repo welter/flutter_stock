@@ -2,13 +2,13 @@
  * @Author: zhang
  * @Date: 2020-06-20 08:22:01
  * @LastEditTime: 2020-09-05 13:51:58
- * @FilePath: /stock_app/lib/ui/index.dart
+ * @FilePath: /welterstock/lib/ui/index.dart
  */ 
-import 'package:app_stock/ui/choice.dart';
-import 'package:app_stock/ui/home.dart';
-import 'package:app_stock/ui/market.dart';
-import 'package:app_stock/ui/my.dart';
-import 'package:app_stock/ui/widgets/index.dart';
+import 'package:welterstock/ui/choice.dart';
+import 'package:welterstock/ui/home.dart';
+import 'package:welterstock/ui/market.dart';
+import 'package:welterstock/ui/my.dart';
+import 'package:welterstock/ui/widgets/index.dart';
 import 'package:flutter/material.dart';
 
 

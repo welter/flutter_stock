@@ -1,11 +1,11 @@
 import 'dart:async';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/model/k/selected_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/ui/pages/chart/base/base_rect.dart';
-import 'package:app_stock/utils/date_util.dart';
-import 'package:app_stock/utils/number_util.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/model/k/selected_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/ui/pages/chart/base/base_rect.dart';
+import 'package:welterstock/utils/date_util.dart';
+import 'package:welterstock/utils/number_util.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'chart_state.dart';

@@ -2,7 +2,7 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 08:24:08
  * @LastEditTime: 2020-06-27 14:28:55
- * @FilePath: /stock_app/lib/ui/components/200_base.dart
+ * @FilePath: /welterstock/lib/ui/components/200_base.dart
  */
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

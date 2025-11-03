@@ -2,13 +2,13 @@
  * @Author: zhang
  * @Date: 2020-05-23 13:54:30
  * @LastEditTime: 2020-06-07 18:25:19
- * @FilePath: /stock_app/lib/model/k/k_entrust.dart
+ * @FilePath: /welterstock/lib/model/k/k_entrust.dart
  */ 
  
 
 import 'dart:convert';
 
-import 'package:app_stock/utils/number_util.dart';
+import 'package:welterstock/utils/number_util.dart';
 
 class EntrustEntity {
   int type; //0买 1卖

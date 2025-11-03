@@ -2,10 +2,10 @@
  * @Author: zhang
  * @Date: 2020-06-20 08:33:41
  * @LastEditTime: 2020-06-27 23:46:19
- * @FilePath: /stock_app/lib/ui/my.dart
+ * @FilePath: /welterstock/lib/ui/my.dart
  */
 
-import 'package:app_stock/ui/components/200_base.dart';
+import 'package:welterstock/ui/components/200_base.dart';
 import 'package:flutter/material.dart';
 
 import 'components/100_index.dart';

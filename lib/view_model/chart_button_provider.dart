@@ -1,5 +1,5 @@
 
-import 'package:app_stock/provider/base_model.dart';
+import 'package:welterstock/provider/base_model.dart';
 
 class ChartButtonProvider extends BaseModel{
   bool isShowBigButton;

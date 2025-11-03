@@ -3,11 +3,11 @@
  * @Date: 2020-06-19 09:26:57
  * @LastEditors: zhanghongtao
  * @LastEditTime: 2020-06-19 16:43:48
- * @FilePath: \stock_app\lib\ui\widgets\full_widget.dart
+ * @FilePath: \welterstock\lib\ui\widgets\full_widget.dart
  */ 
-import 'package:app_stock/ui/components/200_base.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/utils/sql_util.dart';
+import 'package:welterstock/ui/components/200_base.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/utils/sql_util.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../view_model/k_line.dart';

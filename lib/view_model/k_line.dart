@@ -2,21 +2,21 @@
  * @Author: zhang
  * @Date: 2020-05-25 21:12:45
  * @LastEditTime: 2020-09-05 14:35:00
- * @FilePath: /stock_app/lib/view_model/k_line.dart
+ * @FilePath: /welterstock/lib/view_model/k_line.dart
  */
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:app_stock/cache/k_line.dart';
-import 'package:app_stock/model/base_response.dart';
-import 'package:app_stock/model/k/k_entrust.dart';
-import 'package:app_stock/model/k/page.dart';
-import 'package:app_stock/service/k_line/k_line.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
-import 'package:app_stock/utils/data_util.dart';
-import 'package:app_stock/utils/event_bus_util.dart';
-import 'package:app_stock/utils/socket_io_utils.dart';
-import 'package:app_stock/utils/sql_util.dart';
+import 'package:welterstock/cache/k_line.dart';
+import 'package:welterstock/model/base_response.dart';
+import 'package:welterstock/model/k/k_entrust.dart';
+import 'package:welterstock/model/k/page.dart';
+import 'package:welterstock/service/k_line/k_line.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/utils/data_util.dart';
+import 'package:welterstock/utils/event_bus_util.dart';
+import 'package:welterstock/utils/socket_io_utils.dart';
+import 'package:welterstock/utils/sql_util.dart';
 
 import '../model/base_response.dart';
 import '../model/k/k_line_entity.dart';

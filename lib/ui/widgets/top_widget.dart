@@ -1,7 +1,7 @@
-import 'package:app_stock/ui/components/200_base.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
-import 'package:app_stock/utils/number_util.dart';
-import 'package:app_stock/view_model/k_line.dart';
+import 'package:welterstock/ui/components/200_base.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/utils/number_util.dart';
+import 'package:welterstock/view_model/k_line.dart';
 import 'package:ffloat/ffloat.dart';
 import 'package:flutter/material.dart';
 

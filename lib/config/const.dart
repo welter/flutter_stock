@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-25 21:38:22
  * @LastEditTime: 2020-06-12 13:52:33
- * @FilePath: \stock_app\lib\config\const.dart
+ * @FilePath: \welterstock\lib\config\const.dart
  */ 
 
 class Const{

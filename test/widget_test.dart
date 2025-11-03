@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-25 23:13:36
  * @LastEditTime: 2020-05-25 23:19:20
- * @FilePath: /stock_app/test/widget_test.dart
+ * @FilePath: /welterstock/test/widget_test.dart
  */ 
 // This is a basic Flutter widget test.
 //
@@ -14,7 +14,7 @@
 // import 'package:flutter/material.dart';
 // import 'package:flutter_test/flutter_test.dart';
 
-// import 'package:stock_app/main.dart';
+// import 'package:welterstock/main.dart';
 
 // void main() {
 //   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

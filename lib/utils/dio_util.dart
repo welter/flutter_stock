@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-25 20:30:18
  * @LastEditTime: 2020-09-03 21:42:40
- * @FilePath: /stock_app/lib/utils/dio_util.dart
+ * @FilePath: /welterstock/lib/utils/dio_util.dart
  */ 
 import 'dart:io';
 import 'package:dio/dio.dart';

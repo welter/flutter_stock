@@ -2,12 +2,12 @@
  * @Author: zhang
  * @Date: 2020-05-23 00:58:34
  * @LastEditTime: 2020-06-13 11:44:09
- * @FilePath: /stock_app/lib/ui/pages/chart/base/base_renderer.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/base_renderer.dart
  */ 
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/utils/number_util.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/utils/number_util.dart';
 import 'package:flutter/material.dart';
 
 import 'base_painter.dart';

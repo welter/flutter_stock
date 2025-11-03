@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-25 21:03:30
  * @LastEditTime: 2020-06-15 08:57:30
- * @FilePath: \stock_app\lib\model\base_response.dart
+ * @FilePath: \welterstock\lib\model\base_response.dart
  */ 
 
 

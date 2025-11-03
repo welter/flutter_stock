@@ -4,9 +4,9 @@
  * @LastEditTime: 2020-06-06 17:49:07
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /stock_app/lib/service/system/system.dart
+ * @FilePath: /welterstock/lib/service/system/system.dart
  */ 
-import 'package:app_stock/model/base_response.dart';
+import 'package:welterstock/model/base_response.dart';
 import 'package:dio/dio.dart';
 import 'package:path_provider/path_provider.dart';
 import 'dart:async';

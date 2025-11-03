@@ -2,13 +2,13 @@
  * @Author: zhang
  * @Date: 2020-06-09 23:07:18
  * @LastEditTime: 2020-06-09 23:14:41
- * @FilePath: /stock_app/lib/ui/pages/chart/base/index/cyq.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/index/cyq.dart
  */ 
 // /*
 //  * @Author: zhang
 //  * @Date: 2020-06-09 23:07:18
 //  * @LastEditTime: 2020-06-09 23:07:18
-//  * @FilePath: /stock_app/lib/ui/pages/chart/base/index/cyq.dart
+//  * @FilePath: /welterstock/lib/ui/pages/chart/base/index/cyq.dart
 //  */ 
 
 // import 'dart:math';

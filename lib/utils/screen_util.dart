@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-25 23:38:31
  * @LastEditTime: 2020-05-26 08:50:52
- * @FilePath: \stock_app\lib\utils\screen_util.dart
+ * @FilePath: \welterstock\lib\utils\screen_util.dart
  */ 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

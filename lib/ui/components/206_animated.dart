@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-23 11:13:52
  * @LastEditTime: 2020-06-27 23:09:21
- * @FilePath: /stock_app/lib/ui/components/206_animated.dart
+ * @FilePath: /welterstock/lib/ui/components/206_animated.dart
  */ 
 import 'package:flutter/material.dart';
 

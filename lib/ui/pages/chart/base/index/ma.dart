@@ -2,17 +2,17 @@
  * @Author: zhang
  * @Date: 2020-06-01 00:42:29
  * @LastEditTime: 2020-06-12 13:00:27
- * @FilePath: \stock_app\lib\ui\pages\lib\base\index\ma.dart
+ * @FilePath: \welterstock\lib\ui\pages\lib\base\index\ma.dart
  */ 
 
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:app_stock/model/k/candle_entity.dart';
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/ui/pages/chart/base/base_renderer.dart';
-import 'package:app_stock/ui/pages/chart/base/index/base_index.dart';
+import 'package:welterstock/model/k/candle_entity.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/ui/pages/chart/base/base_renderer.dart';
+import 'package:welterstock/ui/pages/chart/base/index/base_index.dart';
 
 class MAIndex extends BaseIndex<CandleEntity>{
 

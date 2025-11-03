@@ -2,7 +2,7 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-28 08:37:54
  * @LastEditTime: 2020-06-16 09:20:08
- * @FilePath: \stock_app\lib\ui\pages\lib\base\base_renderer_factory.dart
+ * @FilePath: \welterstock\lib\ui\pages\lib\base\base_renderer_factory.dart
  */ 
 
 import '../../../helper/chart_style.dart';

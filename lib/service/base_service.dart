@@ -1,5 +1,5 @@
-import 'package:app_stock/model/base_response.dart';
-import 'package:app_stock/utils/dio_util.dart';
+import 'package:welterstock/model/base_response.dart';
+import 'package:welterstock/utils/dio_util.dart';
 import 'package:flutter/material.dart';
 
 import '../config/env.dart';

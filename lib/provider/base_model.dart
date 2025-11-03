@@ -1,4 +1,4 @@
-import 'package:app_stock/model/base_response.dart';
+import 'package:welterstock/model/base_response.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

@@ -1,7 +1,7 @@
 
 
-import 'package:app_stock/ui/index.dart';
-import 'package:app_stock/ui/widgets/index.dart';
+import 'package:welterstock/ui/index.dart';
+import 'package:welterstock/ui/widgets/index.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

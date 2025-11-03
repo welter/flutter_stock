@@ -2,10 +2,10 @@
  * @Author: zhang
  * @Date: 2020-06-01 20:19:44
  * @LastEditTime: 2020-06-08 10:44:19
- * @FilePath: \stock_app\lib\view_model\system\theme.dart
+ * @FilePath: \welterstock\lib\view_model\system\theme.dart
  */ 
 
-import 'package:app_stock/utils/sp_util.dart';
+import 'package:welterstock/utils/sp_util.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
  

@@ -2,12 +2,12 @@
  * @Author: zhang
  * @Date: 2020-05-26 19:47:40
  * @LastEditTime: 2020-09-05 15:01:39
- * @FilePath: /stock_app/lib/service/k_line/k_line.dart
+ * @FilePath: /welterstock/lib/service/k_line/k_line.dart
  */ 
 
 import 'dart:convert';
  
-import 'package:app_stock/model/base_response.dart';
+import 'package:welterstock/model/base_response.dart';
 import 'package:flutter/services.dart';
  
 

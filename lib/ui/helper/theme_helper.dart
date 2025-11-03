@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-23 11:17:07
  * @LastEditTime: 2020-06-13 18:27:39
- * @FilePath: /stock_app/lib/ui/helper/theme_helper.dart
+ * @FilePath: /welterstock/lib/ui/helper/theme_helper.dart
  */ 
 
 // class TLColors{

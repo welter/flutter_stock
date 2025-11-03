@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-06-26 21:13:28
  * @LastEditTime: 2020-06-26 23:44:34
- * @FilePath: /stock_app/lib/ui/widgets/table_sticky_headers.dart
+ * @FilePath: /welterstock/lib/ui/widgets/table_sticky_headers.dart
  */
 library table_sticky_headers;
 

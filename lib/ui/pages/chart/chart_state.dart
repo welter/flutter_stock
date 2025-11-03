@@ -2,7 +2,7 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 08:24:09
  * @LastEditTime: 2020-06-11 13:32:56
- * @FilePath: \stock_app\lib\ui\pages\lib\chart_state.dart
+ * @FilePath: \welterstock\lib\ui\pages\lib\chart_state.dart
  */ 
 
 enum MainState { FS, K, NONE }

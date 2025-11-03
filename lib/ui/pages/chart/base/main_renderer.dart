@@ -2,11 +2,11 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-29 08:20:15
  * @LastEditTime: 2020-06-13 11:42:51
- * @FilePath: /stock_app/lib/ui/pages/chart/base/main_renderer.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/main_renderer.dart
  */
-import 'package:app_stock/model/k/candle_entity.dart';
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
+import 'package:welterstock/model/k/candle_entity.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
 import 'package:flutter/material.dart';
 import '../chart_state.dart' show MainState;
 import '../chart_state.dart';

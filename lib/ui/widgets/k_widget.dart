@@ -2,16 +2,16 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-28 08:25:19
  * @LastEditTime: 2020-06-19 17:21:30
- * @FilePath: \stock_app\lib\ui\widgets\k_widget.dart
+ * @FilePath: \welterstock\lib\ui\widgets\k_widget.dart
  */
 
 import 'dart:async';
 
-import 'package:app_stock/model/k/k_entrust.dart';
-import 'package:app_stock/ui/components/200_base.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/ui/pages/chart/tl_chart.dart';
-import 'package:app_stock/ui/widgets/top_widget.dart';
+import 'package:welterstock/model/k/k_entrust.dart';
+import 'package:welterstock/ui/components/200_base.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/ui/pages/chart/tl_chart.dart';
+import 'package:welterstock/ui/widgets/top_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

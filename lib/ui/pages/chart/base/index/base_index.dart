@@ -2,13 +2,13 @@
  * @Author: zhang
  * @Date: 2020-06-01 00:42:29
  * @LastEditTime: 2020-06-10 15:12:46
- * @FilePath: \stock_app\lib\ui\pages\lib\base\index\base_index.dart
+ * @FilePath: \welterstock\lib\ui\pages\lib\base\index\base_index.dart
  */ 
 
 import 'dart:ui';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/pages/chart/base/base_renderer.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/pages/chart/base/base_renderer.dart';
 import 'package:flutter/material.dart';
 
  abstract class BaseIndex<T>{

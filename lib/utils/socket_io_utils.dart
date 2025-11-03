@@ -4,10 +4,10 @@
  * @LastEditTime: 2020-06-04 10:18:36
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \stock_app\lib\utils\socket_io_utils.dart
+ * @FilePath: \welterstock\lib\utils\socket_io_utils.dart
  */
 
-import 'package:app_stock/config/env.dart';
+import 'package:welterstock/config/env.dart';
 import 'package:socket_io_client/socket_io_client.dart';
 
 import 'event_bus_util.dart';

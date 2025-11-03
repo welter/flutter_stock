@@ -2,8 +2,8 @@
 
 import 'dart:math';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
 import 'date_util.dart';
 
 class DataUtil  {

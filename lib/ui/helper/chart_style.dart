@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-23 11:24:13
  * @LastEditTime: 2020-06-13 11:56:19
- * @FilePath: /stock_app/lib/ui/helper/chart_style.dart
+ * @FilePath: /welterstock/lib/ui/helper/chart_style.dart
  */ 
 import 'package:flutter/material.dart' show Color;
 

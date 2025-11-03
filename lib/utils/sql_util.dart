@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
-
+import 'package:welterstock/utils/sqf_database_util.dart';
 class SQLProvider {
   SQLProvider._();
   
@@ -63,7 +63,7 @@ class SQLProvider {
       //             jc TEXT);
       //           ''');
       // });
-      db=getDatabase();
+      db=await sqfDatabaseProvider.getDatabase();
     } else {
       print("Opening existing database");
     }

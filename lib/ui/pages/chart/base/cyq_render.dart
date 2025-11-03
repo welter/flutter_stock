@@ -2,13 +2,13 @@
  * @Author: zhang
  * @Date: 2020-05-23 00:58:34
  * @LastEditTime: 2020-06-10 22:29:56
- * @FilePath: /stock_app/lib/ui/pages/chart/base/cyq_render.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/cyq_render.dart
  */ 
 import 'dart:ui'; 
-import 'package:app_stock/model/k/cyq_entity.dart';
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/ui/pages/chart/chart_state.dart';
+import 'package:welterstock/model/k/cyq_entity.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/ui/pages/chart/chart_state.dart';
 import 'package:flutter/material.dart';
 import 'base_painter.dart';
 import 'base_rect.dart';

@@ -2,10 +2,10 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 14:48:39
  * @LastEditTime: 2020-06-19 16:49:51
- * @FilePath: \stock_app\lib\ui\widgets\tab_bar.dart
+ * @FilePath: \welterstock\lib\ui\widgets\tab_bar.dart
  */
 
-import 'package:app_stock/ui/components/200_base.dart';
+import 'package:welterstock/ui/components/200_base.dart';
 import 'package:flutter/material.dart';
 
 class ZxDelegate extends SliverPersistentHeaderDelegate {

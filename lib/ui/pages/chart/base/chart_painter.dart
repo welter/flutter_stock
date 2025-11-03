@@ -2,15 +2,15 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-29 08:20:15
  * @LastEditTime: 2020-06-13 18:41:19
- * @FilePath: /stock_app/lib/ui/pages/chart/base/chart_painter.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/chart_painter.dart
  */ 
 import 'dart:async';
 import 'dart:math';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/model/k/selected_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/ui/pages/chart/base/index/ma.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/model/k/selected_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/ui/pages/chart/base/index/ma.dart';
 import 'package:flutter/material.dart';
 import '../chart_state.dart';
 

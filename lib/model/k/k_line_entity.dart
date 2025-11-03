@@ -2,7 +2,7 @@
  * @Author: zhang
  * @Date: 2020-05-23 00:58:35
  * @LastEditTime: 2020-06-12 22:36:50
- * @FilePath: /stock_app/lib/model/k/k_line_entity.dart
+ * @FilePath: /welterstock/lib/model/k/k_line_entity.dart
  */ 
 
 

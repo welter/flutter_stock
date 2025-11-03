@@ -2,12 +2,12 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 08:24:10
  * @LastEditTime: 2020-06-20 08:52:32
- * @FilePath: /stock_app/lib/main.dart
+ * @FilePath: /welterstock/lib/main.dart
  */
 
 import 'dart:io';
 
-import 'package:app_stock/utils/sp_util.dart';
+import 'package:welterstock/utils/sp_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';

@@ -2,13 +2,13 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-20 00:20:15
  * @LastEditTime: 2020-06-13 18:41:09
- * @FilePath: /stock_app/lib/ui/pages/chart/base/base_painter.dart
+ * @FilePath: /welterstock/lib/ui/pages/chart/base/base_painter.dart
  */ 
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/ui/helper/chart_style.dart';
-import 'package:app_stock/utils/date_format_util.dart';
-import 'package:app_stock/utils/number_util.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/ui/helper/chart_style.dart';
+import 'package:welterstock/utils/date_format_util.dart';
+import 'package:welterstock/utils/number_util.dart';
 import 'package:flutter/material.dart' show Canvas, Color, CustomPainter, Size, TextStyle, required;
 import '../chart_state.dart' ;
 import 'base_rect.dart';

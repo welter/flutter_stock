@@ -2,7 +2,7 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 08:24:09
  * @LastEditTime: 2020-06-04 12:37:15
- * @FilePath: \stock_app\lib\utils\event_bus_util.dart
+ * @FilePath: \welterstock\lib\utils\event_bus_util.dart
  */ 
 typedef void EventCallback(arg);
 class EventBus { //饿汉

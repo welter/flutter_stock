@@ -2,7 +2,7 @@
  * @Author: zhanghongtao
  * @Date: 2020-05-26 08:24:09
  * @LastEditTime: 2020-06-03 15:10:34
- * @FilePath: \stock_app\lib\utils\number_util.dart
+ * @FilePath: \welterstock\lib\utils\number_util.dart
  */ 
 class NumberUtil {
   static String volFormat(double n) {

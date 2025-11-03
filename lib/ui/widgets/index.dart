@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:app_stock/model/k/k_line_entity.dart';
-import 'package:app_stock/model/k/selected_entity.dart';
-import 'package:app_stock/ui/widgets/full_widget.dart';
-import 'package:app_stock/utils/sql_util.dart';
-import 'package:app_stock/view_model/k_line.dart';
+import 'package:welterstock/model/k/k_line_entity.dart';
+import 'package:welterstock/model/k/selected_entity.dart';
+import 'package:welterstock/ui/widgets/full_widget.dart';
+import 'package:welterstock/utils/sql_util.dart';
+import 'package:welterstock/view_model/k_line.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

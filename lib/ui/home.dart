@@ -2,11 +2,11 @@
  * @Author: zhang
  * @Date: 2020-06-20 08:27:29
  * @LastEditTime: 2020-06-25 17:25:01
- * @FilePath: /stock_app/lib/ui/home.dart
+ * @FilePath: /welterstock/lib/ui/home.dart
  */
 
-import 'package:app_stock/ui/components/200_base.dart';
-import 'package:app_stock/ui/widgets/backdrop.dart';
+import 'package:welterstock/ui/components/200_base.dart';
+import 'package:welterstock/ui/widgets/backdrop.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';

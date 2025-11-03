@@ -2,12 +2,12 @@
  * @Author: zhang
  * @Date: 2020-06-21 19:09:30
  * @LastEditTime: 2020-08-03 12:33:37
- * @FilePath: \stock_app\lib\ui\widgets\backdrop.dart
+ * @FilePath: \welterstock\lib\ui\widgets\backdrop.dart
  */
 
 import 'dart:math' as math;
 
-import 'package:app_stock/ui/components/100_index.dart';
+import 'package:welterstock/ui/components/100_index.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/material.dart';
 
