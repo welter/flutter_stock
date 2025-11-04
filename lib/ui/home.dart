@@ -1,8 +1,9 @@
 /*
  * @Author: zhang
  * @Date: 2020-06-20 08:27:29
- * @LastEditTime: 2020-06-25 17:25:01
+ * @LastEditTime: 2025-11-4 17:25:01
  * @FilePath: /welterstock/lib/ui/home.dart
+ * 首页生成代码
  */
 
 import 'package:welterstock/ui/components/200_base.dart';
@@ -16,11 +17,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Backdrop(
         backTitle: const Text('Options'),
-        backLayer: TopOneWidget(),
+        backLayer: TopOneWidget(), //首页上部的tab页（自动滚动）
         frontHeading: Container(height: 10.0),
         frontAction: BackButtonIcon(),
         frontTitle: Text('Flutter gallery'),
-        frontLayer: TopTwoWidget(),
+        frontLayer: TopTwoWidget(),  //首页下部的tab页
       );
   }
 }
@@ -33,7 +34,7 @@ class TopOneWidget extends StatelessWidget {
     return Column(children: [
       _TopInfo(), //180
       GridViewUsed(),//150
-      SizedBox(height: 10),
+      SizedBox(height: 10), //
     ]);
   }
 }

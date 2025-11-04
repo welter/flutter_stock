@@ -15,6 +15,9 @@ import '../helper/chart_style.dart';
 import '../widgets/k_widget.dart';
 import '../widgets/tab_bar.dart';
 import '../widgets/top_widget.dart';
+/*
+股票信息主页面生成代码
+ */
 
 class StockIndex extends StatelessWidget {
   const StockIndex({Key key}) : super(key: key);

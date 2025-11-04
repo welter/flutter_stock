@@ -3,6 +3,7 @@
  * @Date: 2020-06-20 08:22:01
  * @LastEditTime: 2020-09-05 13:51:58
  * @FilePath: /welterstock/lib/ui/index.dart
+ * 主界面生成代码
  */ 
 import 'package:welterstock/ui/choice.dart';
 import 'package:welterstock/ui/home.dart';
@@ -44,7 +45,7 @@ class _IndexState extends State<IndexPage> {
       body: IndexedStack(
         index: selectTabIndex,
         children: [
-          HomePage(),
+          HomePage(),  //主页
           MarketPage(),
           ChoicePage(),
           StockIndex(),

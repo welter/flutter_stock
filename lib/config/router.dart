@@ -20,7 +20,7 @@ class Router {
   static Route generateRoute(RouteSettings settings) {
     switch (settings.name) {
       case RouteName.login:
-        return FadeRouteBuilder(StockIndex());      
+        //return FadeRouteBuilder(StockIndex());  welter
       case RouteName.index:
         return FadeRouteBuilder(IndexPage());
       case RouteName.stock_index:

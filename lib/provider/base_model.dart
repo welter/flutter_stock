@@ -6,7 +6,9 @@ import 'package:oktoast/oktoast.dart';
 
 import '../config/router.dart';
 import '../ui/components/203_pageWidget.dart';
-
+/*
+模型状态管理器
+ */
 /// 页面状态类型
 enum Status {
   idle, //空闲中
